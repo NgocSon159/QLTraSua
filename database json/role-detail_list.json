@@ -1,0 +1,526 @@
+[
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM001"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM002"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM003"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM004"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM005"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM006"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM007"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM008"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM009"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM010"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM011"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM012"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM013"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM014"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM015"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM016"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM017"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM018"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM019"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM020"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM021"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM022"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM023"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM024"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM025"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM026"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM027"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM028"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM029"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM030"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM031"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM032"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM033"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM034"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM035"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM036"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM037"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM038"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM039"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM040"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM041"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM042"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM043"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM044"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM045"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM046"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM047"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM048"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM049"
+    },
+    {
+        "RoleID": "RAdmin",
+        "Permission": "PM050"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM001"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM002"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM003"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM004"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM005"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM006"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM007"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM008"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM009"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM010"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM011"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM012"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM013"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM014"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM015"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM016"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM017"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM018"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM019"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM020"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM021"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM022"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM023"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM024"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM025"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM026"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM027"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM028"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM029"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM030"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM031"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM032"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM033"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM034"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM035"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM036"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM037"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM038"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM039"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM040"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM041"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM042"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM043"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM044"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM045"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM046"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM047"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM048"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM049"
+    },
+    {
+        "RoleID": "ROwner",
+        "Permission": "PM050"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM006"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM007"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM008"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM012"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM013"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM019"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM035"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM041"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM047"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM048"
+    },
+    {
+        "RoleID": "RWaiter",
+        "Permission": "PM049"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM006"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM007"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM008"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM012"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM013"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM019"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM035"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM041"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM047"
+    },
+    {
+        "RoleID": "RBarista",
+        "Permission": "PM048"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM006"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM007"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM008"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM012"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM013"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM019"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM035"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM041"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM047"
+    },
+    {
+        "RoleID": "RCashier",
+        "Permission": "PM048"
+    }
+]

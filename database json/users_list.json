@@ -1,0 +1,52 @@
+[
+    {
+        "Username": "admin",
+        "Password": "admin",
+        "EmployeeID": "",
+        "RoleID": "RAdmin",
+        "Status": true
+    },
+    {
+        "Username": "boss",
+        "Password": "boss",
+        "EmployeeID": "",
+        "RoleID": "ROwner",
+        "Status": true
+    },
+    {
+        "Username": "ngocson",
+        "Password": "123",
+        "EmployeeID": "",
+        "RoleID": "RWaiter",
+        "Status": true
+    },
+    {
+        "Username": "nhusang",
+        "Password": "123",
+        "EmployeeID": "",
+        "RoleID": "RBarista",
+        "Status": true
+    },
+    {
+        "Username": "namanh",
+        "Password": "123",
+        "EmployeeID": "",
+        "RoleID": "RCashier",
+        "Status": true
+    },
+    {
+        "Username": "trangthao",
+        "Password": "123",
+        "EmployeeID": "",
+        "RoleID": "RBarista",
+        "Status": true
+    },
+    {
+        "Username": "duongtong",
+        "Password": "123",
+        "EmployeeID": "",
+        "RoleID": "RWaiter",
+        "Status": true
+    }
+    
+]

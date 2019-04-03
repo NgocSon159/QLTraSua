@@ -1,0 +1,1 @@
+mongoimport --host localhost --db Project1 --collection User --type json --file ./users_list.json --jsonArray

@@ -1,0 +1,884 @@
+[
+    
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0001",
+        "FoodName": "Mocha Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI001"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0002",
+        "FoodName": "Caramel Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI001"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0003",
+        "FoodName": "Hazelnut Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI001"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0004",
+        "FoodName": "Cookie Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI001"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0005",
+        "FoodName": "Hot Chocolate Toffee Almond",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI002"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0006",
+        "FoodName": "Iced Chocolate Mocha Almod",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI002"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0007",
+        "FoodName": "Chocolate Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI002"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0008",
+        "FoodName": "Green Apple Soda",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0009",
+        "FoodName": "Raspberry Soda",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food00010",
+        "FoodName": "Blueberry Soda",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0011",
+        "FoodName": "Mojito Lemon",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0012",
+        "FoodName": "Mojito Passion Fruit",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0013",
+        "FoodName": "Blueberry Smoothie",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0014",
+        "FoodName": "Stawberry Guava Cookies Smoothie",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0015",
+        "FoodName": "Mango Orange Cookies Smoothie",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0016",
+        "FoodName": "Fresh Orange Juice",
+        "Price": {
+            "$numberInt": "65000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0017",
+        "FoodName": "VietFoodNamese Coffee",
+        "Price": {
+            "$numberInt": "29000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0018",
+        "FoodName": "VietFoodNamese Coffee",
+        "Price": {
+            "$numberInt": "39000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0019",
+        "FoodName": "VietFoodNamese White Coffee",
+        "Price": {
+            "$numberInt": "29000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0020",
+        "FoodName": "VietFoodNamese White Coffee",
+        "Price": {
+            "$numberInt": "39000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0021",
+        "FoodName": "VietFoodNamese Milk Coffee",
+        "Price": {
+            "$numberInt": "29000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0022",
+        "FoodName": "VietFoodNamese Milk Coffee",
+        "Price": {
+            "$numberInt": "39000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0023",
+        "FoodName": "Expresso",
+        "Price": {
+            "$numberInt": "35000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0024",
+        "FoodName": "Expresso",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0025",
+        "FoodName": "Condensed Milk Espresso",
+        "Price": {
+            "$numberInt": "35000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0026",
+        "FoodName": "Condensed Milk Espresso",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0027",
+        "FoodName": "Americano",
+        "Price": {
+            "$numberInt": "39000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0028",
+        "FoodName": "Americano",
+        "Price": {
+            "$numberInt": "49000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0029",
+        "FoodName": "Cappuchino",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0030",
+        "FoodName": "Cappuchino",
+        "Price": {
+            "$numberInt": "55000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0031",
+        "FoodName": "Latte",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0032",
+        "FoodName": "Latte",
+        "Price": {
+            "$numberInt": "55000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0033",
+        "FoodName": "Mocha",
+        "Price": {
+            "$numberInt": "49000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0034",
+        "FoodName": "Mocha",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0035",
+        "FoodName": "Caramel Macchiato",
+        "Price": {
+            "$numberInt": "55"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0036",
+        "FoodName": "Caramel Macchiato",
+        "Price": {
+            "$numberInt": "65000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0037",
+        "FoodName": "Black Tea",
+        "Price": {
+            "$numberInt": "35000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0038",
+        "FoodName": "Flavored Tea",
+        "Price": {
+            "$numberInt": "35000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0039",
+        "FoodName": "Black Tea Macchiato",
+        "Price": {
+            "$numberInt": "38000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0040",
+        "FoodName": "Raspberry Macchiato",
+        "Price": {
+            "$numberInt": "42"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0041",
+        "FoodName": "Peach Tea Mania",
+        "Price": {
+            "$numberInt": "42000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0042",
+        "FoodName": "Peach Tea Mania",
+        "Price": {
+            "$numberInt": "55000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0043",
+        "FoodName": "Matcha Latte",
+        "Price": {
+            "$numberInt": "55000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0001",
+        "FoodID": "Food0044",
+        "FoodName": "Matcha Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0001",
+        "FoodName": "Mocha Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI001"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0002",
+        "FoodName": "Caramel Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI001"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0003",
+        "FoodName": "Hazelnut Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI001"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0004",
+        "FoodName": "Cookie Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI001"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0005",
+        "FoodName": "Hot Chocolate Toffee Almond",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI002"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0006",
+        "FoodName": "Iced Chocolate Mocha Almod",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI002"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0007",
+        "FoodName": "Chocolate Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI002"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0008",
+        "FoodName": "Green Apple Soda",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0009",
+        "FoodName": "Raspberry Soda",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food00010",
+        "FoodName": "Blueberry Soda",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0011",
+        "FoodName": "Mojito Lemon",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0012",
+        "FoodName": "Mojito Passion Fruit",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0013",
+        "FoodName": "Blueberry Smoothie",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0014",
+        "FoodName": "Stawberry Guava Cookies Smoothie",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0015",
+        "FoodName": "Mango Orange Cookies Smoothie",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0016",
+        "FoodName": "Fresh Orange Juice",
+        "Price": {
+            "$numberInt": "65000"
+        },
+        "Size": "Large",
+        "CategoryID": "LOAI003"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0017",
+        "FoodName": "VietFoodNamese Coffee",
+        "Price": {
+            "$numberInt": "29000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0018",
+        "FoodName": "VietFoodNamese Coffee",
+        "Price": {
+            "$numberInt": "39000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0019",
+        "FoodName": "VietFoodNamese White Coffee",
+        "Price": {
+            "$numberInt": "29000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0020",
+        "FoodName": "VietFoodNamese White Coffee",
+        "Price": {
+            "$numberInt": "39000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0021",
+        "FoodName": "VietFoodNamese Milk Coffee",
+        "Price": {
+            "$numberInt": "29000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0022",
+        "FoodName": "VietFoodNamese Milk Coffee",
+        "Price": {
+            "$numberInt": "39000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI004"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0023",
+        "FoodName": "Expresso",
+        "Price": {
+            "$numberInt": "35000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0024",
+        "FoodName": "Expresso",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0025",
+        "FoodName": "Condensed Milk Espresso",
+        "Price": {
+            "$numberInt": "35000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0026",
+        "FoodName": "Condensed Milk Espresso",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0027",
+        "FoodName": "Americano",
+        "Price": {
+            "$numberInt": "39000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0028",
+        "FoodName": "Americano",
+        "Price": {
+            "$numberInt": "49000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0029",
+        "FoodName": "Cappuchino",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0030",
+        "FoodName": "Cappuchino",
+        "Price": {
+            "$numberInt": "55000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0031",
+        "FoodName": "Latte",
+        "Price": {
+            "$numberInt": "45000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0032",
+        "FoodName": "Latte",
+        "Price": {
+            "$numberInt": "55000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0033",
+        "FoodName": "Mocha",
+        "Price": {
+            "$numberInt": "49000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0034",
+        "FoodName": "Mocha",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0035",
+        "FoodName": "Caramel Macchiato",
+        "Price": {
+            "$numberInt": "55"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0036",
+        "FoodName": "Caramel Macchiato",
+        "Price": {
+            "$numberInt": "65000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI005"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0037",
+        "FoodName": "Black Tea",
+        "Price": {
+            "$numberInt": "35000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0038",
+        "FoodName": "Flavored Tea",
+        "Price": {
+            "$numberInt": "35000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0039",
+        "FoodName": "Black Tea Macchiato",
+        "Price": {
+            "$numberInt": "38000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0040",
+        "FoodName": "Raspberry Macchiato",
+        "Price": {
+            "$numberInt": "42"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0041",
+        "FoodName": "Peach Tea Mania",
+        "Price": {
+            "$numberInt": "42000"
+        },
+        "Size": "Small",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0042",
+        "FoodName": "Peach Tea Mania",
+        "Price": {
+            "$numberInt": "55000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0043",
+        "FoodName": "Matcha Latte",
+        "Price": {
+            "$numberInt": "55000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI006"
+    },
+    {
+        "MenuID": "Menu0002",
+        "FoodID": "Food0044",
+        "FoodName": "Matcha Ice Blended",
+        "Price": {
+            "$numberInt": "59000"
+        },
+        "Size": "Medium",
+        "CategoryID": "LOAI006"
+    }
+    
+]

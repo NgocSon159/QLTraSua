@@ -1,0 +1,47 @@
+[
+    {
+        "BranchID": "BR001",
+        "BranchName": "The Alley 01",
+        "BranchAddress": "114 Hồ Tùng Mậu, Q.1, TP.HCM",
+        "PhoneNumber": "0123456789",
+        "NameWifi": "TheAlley01",
+        "PassWifi": "12345678",
+        "Status": true
+    },
+    {
+        "BranchID": "BR002",
+        "BranchName": "The Alley 02",
+        "BranchAddress": "321 Phan Văn Trị, Q.Bình Thạnh, TP.HCM",
+        "PhoneNumber": "0624816324",
+        "NameWifi": "TheAlley02",
+        "PassWifi": "12345678",
+        "Status": true
+    },
+    {
+        "BranchID": "BR003",
+        "BranchName": "The Alley 03",
+        "BranchAddress": "1A Nguyễn Thị Minh Khai, Q.3, TP.HCM",
+        "PhoneNumber": "0123456789",
+        "NameWifi": "TheAlley03",
+        "PassWifi": "12345678",
+        "Status": true
+    },
+    {
+        "BranchID": "BR004",
+        "BranchName": "The Alley 04",
+        "BranchAddress": "106 Nguyễn Trãi, Q.5, TP.HCM",
+        "PhoneNumber": "0123456789",
+        "NameWifi": "TheAlley04",
+        "PassWifi": "12345678",
+        "Status": true
+    },
+    {
+        "BranchID": "BR005",
+        "BranchName": "The Alley 05",
+        "BranchAddress": "361 Cách Mạng Tháng 8, Q.Tân Bình, TP.HCM",
+        "PhoneNumber": "0123456789",
+        "NameWifi": "TheAlley05",
+        "PassWifi": "12345678",
+        "Status": true
+    }
+]

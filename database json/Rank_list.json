@@ -1,0 +1,34 @@
+[
+    {
+        "RankID": "Standard",
+        "RankName": "Standard",
+        "Discount": {
+            "$numberInt": "5"
+        },
+        "Status": true
+    },
+    {
+        "RankID": "Premium",
+        "RankName": "Premium",
+        "Discount": {
+            "$numberInt": "10"
+        },
+        "Status": true
+    },
+    {
+        "RankID": "VIP",
+        "RankName": "VIP",
+        "Discount": {
+            "$numberInt": "15"
+        },
+        "Status": true
+    },
+    {
+        "RankID": "Unknown",
+        "RankName": "Unknown",
+        "Discount": {
+            "$numberInt": "0"
+        },
+        "Status": true
+    }
+]
